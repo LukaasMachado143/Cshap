@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Lucas\\Desktop\\Programation\\ESTUDOS\\André Mentor DEV BACKEND\\cursoAndre\\1\\1.csproj": {}
+    "C:\\Users\\Lucas\\Desktop\\Programation\\ESTUDOS\\André Mentor DEV BACKEND\\cursoAndre\\Revisando-POO-com-C-Sharp\\PrimeiroExercicio\\1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Lucas\\Desktop\\Programation\\ESTUDOS\\André Mentor DEV BACKEND\\cursoAndre\\1\\1.csproj": {
+    "C:\\Users\\Lucas\\Desktop\\Programation\\ESTUDOS\\André Mentor DEV BACKEND\\cursoAndre\\Revisando-POO-com-C-Sharp\\PrimeiroExercicio\\1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Lucas\\Desktop\\Programation\\ESTUDOS\\André Mentor DEV BACKEND\\cursoAndre\\1\\1.csproj",
+        "projectUniqueName": "C:\\Users\\Lucas\\Desktop\\Programation\\ESTUDOS\\André Mentor DEV BACKEND\\cursoAndre\\Revisando-POO-com-C-Sharp\\PrimeiroExercicio\\1.csproj",
         "projectName": "1",
-        "projectPath": "C:\\Users\\Lucas\\Desktop\\Programation\\ESTUDOS\\André Mentor DEV BACKEND\\cursoAndre\\1\\1.csproj",
+        "projectPath": "C:\\Users\\Lucas\\Desktop\\Programation\\ESTUDOS\\André Mentor DEV BACKEND\\cursoAndre\\Revisando-POO-com-C-Sharp\\PrimeiroExercicio\\1.csproj",
         "packagesPath": "C:\\Users\\Lucas\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Lucas\\Desktop\\Programation\\ESTUDOS\\André Mentor DEV BACKEND\\cursoAndre\\1\\obj\\",
+        "outputPath": "C:\\Users\\Lucas\\Desktop\\Programation\\ESTUDOS\\André Mentor DEV BACKEND\\cursoAndre\\Revisando-POO-com-C-Sharp\\PrimeiroExercicio\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Lucas\\AppData\\Roaming\\NuGet\\NuGet.Config"

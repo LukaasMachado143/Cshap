@@ -8,10 +8,7 @@ namespace PrimeiroExercicio
     {
       
       double num1, num2, num3;
-
       String requestName, typeUrgency, description;
-
-
 
       Console.WriteLine("EXERCÍCIO 1: Encontre o maior e o menor número digitado.");
       Console.WriteLine("");

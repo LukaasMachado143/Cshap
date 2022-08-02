@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Lucas\\Desktop\\Programation\\ESTUDOS\\André Mentor DEV BACKEND\\cursoAndre\\Revisando-POO-com-C-Sharp\\TerceiroExerccicio\\TerceiroExerccicio.csproj": {}
+    "C:\\Users\\Lucas\\Desktop\\Programation\\ESTUDOS\\André Mentor DEV BACKEND\\cursoAndre\\Revisando-POO-com-C-Sharp\\TerceiroExercicio\\TerceiroExerccicio.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Lucas\\Desktop\\Programation\\ESTUDOS\\André Mentor DEV BACKEND\\cursoAndre\\Revisando-POO-com-C-Sharp\\TerceiroExerccicio\\TerceiroExerccicio.csproj": {
+    "C:\\Users\\Lucas\\Desktop\\Programation\\ESTUDOS\\André Mentor DEV BACKEND\\cursoAndre\\Revisando-POO-com-C-Sharp\\TerceiroExercicio\\TerceiroExerccicio.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Lucas\\Desktop\\Programation\\ESTUDOS\\André Mentor DEV BACKEND\\cursoAndre\\Revisando-POO-com-C-Sharp\\TerceiroExerccicio\\TerceiroExerccicio.csproj",
+        "projectUniqueName": "C:\\Users\\Lucas\\Desktop\\Programation\\ESTUDOS\\André Mentor DEV BACKEND\\cursoAndre\\Revisando-POO-com-C-Sharp\\TerceiroExercicio\\TerceiroExerccicio.csproj",
         "projectName": "TerceiroExerccicio",
-        "projectPath": "C:\\Users\\Lucas\\Desktop\\Programation\\ESTUDOS\\André Mentor DEV BACKEND\\cursoAndre\\Revisando-POO-com-C-Sharp\\TerceiroExerccicio\\TerceiroExerccicio.csproj",
+        "projectPath": "C:\\Users\\Lucas\\Desktop\\Programation\\ESTUDOS\\André Mentor DEV BACKEND\\cursoAndre\\Revisando-POO-com-C-Sharp\\TerceiroExercicio\\TerceiroExerccicio.csproj",
         "packagesPath": "C:\\Users\\Lucas\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Lucas\\Desktop\\Programation\\ESTUDOS\\André Mentor DEV BACKEND\\cursoAndre\\Revisando-POO-com-C-Sharp\\TerceiroExerccicio\\obj\\",
+        "outputPath": "C:\\Users\\Lucas\\Desktop\\Programation\\ESTUDOS\\André Mentor DEV BACKEND\\cursoAndre\\Revisando-POO-com-C-Sharp\\TerceiroExercicio\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Lucas\\AppData\\Roaming\\NuGet\\NuGet.Config"
